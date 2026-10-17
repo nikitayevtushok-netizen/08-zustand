@@ -40,5 +40,6 @@ npm run build
 
 Import this repository into Vercel and add `NEXT_PUBLIC_NOTEHUB_TOKEN` in the
 project's Environment Variables settings for the environments you use. Redeploy
-after changing environment variables. Once the production URL is available,
-update the Open Graph URLs currently using `https://notehub.com/`.
+after changing environment variables.
+
+Production: <https://08-zustand-pink-three.vercel.app/>
